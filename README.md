@@ -12,7 +12,7 @@ Ensure you have Python 3 installed.
 
 ### 🔹 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Keylogger-Detector.git
+git clone https://github.com/ded-harsh/Keylogger-Detector.git
 cd Keylogger-Detector
 ```
 ### 🔹 Step 2: Install Dependencies
