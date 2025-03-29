@@ -11,20 +11,20 @@ A real-time keylogger detection and removal tool for Windows. This script scans 
 Ensure you have Python 3 installed.
 
 ### 🔹 Step 1: Clone the Repository
-'''bash
+```bash
 git clone https://github.com/yourusername/Keylogger-Detector.git
 cd Keylogger-Detector
-'''
+```
 ### 🔹 Step 2: Install Dependencies
-'''bash
+```bash
 pip install psutil
-'''
+```
 ## ▶️ How to Run
 
 ### 🔹 Windows (CMD or PowerShell)
-'''bash
+```bash
 python keylogger_detector.py
-'''
+```
 ### 🔹 Stop the Script
 Press Ctrl + C to stop monitoring.
 
@@ -34,10 +34,10 @@ All detections are saved in:
 
 ## Example log entry:
 
-'''yaml
+```yaml
 2025-03-29 14:05:12 - [!] Suspicious process detected: keylogger.exe (PID: 1234)
 2025-03-29 14:05:12 - [✔] Terminated suspicious process: 1234
-'''
+```
 ## 🔧 Contributing
 
 ### Want to improve this tool?
